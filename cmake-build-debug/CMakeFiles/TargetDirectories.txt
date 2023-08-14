@@ -1,0 +1,3 @@
+/Users/xuzizhuo/Desktop/RMDS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuzizhuo/Desktop/RMDS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzizhuo/Desktop/RMDS/cmake-build-debug/CMakeFiles/1st_Work.dir
